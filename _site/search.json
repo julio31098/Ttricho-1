@@ -81,14 +81,14 @@
     "href": "index.html",
     "title": "Tricho-1",
     "section": "",
-    "text": "Cultivo de maiz\n\n\n\n\n\n\ncultivo\n\n\n\n\n\n\n\n\n\nJul 10, 2024\n\n\nJulio Aguilar\n\n\n\n\n\n\n\n\n\n\n\n\nPatogenos\n\n\n\n\n\n\nPatogenos\n\n\n\n\n\n\n\n\n\nJul 7, 2024\n\n\nJulio Aguilar\n\n\n\n\n\n\n\n\n\n\n\n\nEstudio de Trichoderma\n\n\n\n\n\n\n\n\n\n\n\nInvalid Date\n\n\nJulio Aguilar\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nSep 1, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Bienvenido a mi blog donde se muestran las caracterisricas principales del trichoderma, asi como su efecto como biocontroldadores y la importancia del cultivo de maíz en nuestro pais.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCultivo de maiz\n\n\n\n\n\n\ncultivo\n\n\n\n\n\n\n\n\n\nJul 10, 2024\n\n\nJulio Aguilar\n\n\n\n\n\n\n\n\n\n\n\n\nPatogenos\n\n\n\n\n\n\nPatogenos\n\n\n\n\n\n\n\n\n\nJul 7, 2024\n\n\nJulio Aguilar\n\n\n\n\n\n\n\n\n\n\n\n\nEstudio de Trichoderma\n\n\n\n\n\n\n\n\n\n\n\nInvalid Date\n\n\nJulio Aguilar\n\n\n\n\n\n\n\n\n\n\n\n\nTrichoderma\n\n\n\n\n\n\ntrichoderma\n\n\n\n\n\n\n\n\n\nSep 1, 2024\n\n\nJulio Aguilar\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this blog"
+    "text": "Soy Julio Aguilar estudiante de la maestría en ciencias agropecuarias de la universidad veracruzana, este proyecto forma parte de mi formación para seguir enriqueciendo mis habilidades y conocimientos en la investigación."
   },
   {
     "objectID": "posts/maiz/index.html",
@@ -136,8 +136,8 @@
     "objectID": "posts/presentacion/estudio-tricho.html#introducción",
     "href": "posts/presentacion/estudio-tricho.html#introducción",
     "title": "Estudio de Trichoderma",
-    "section": "Introducción",
-    "text": "Introducción\nEl cultivo de maíz es una actividad agrícola fundamental en muchas regiones. Sin embargo, es susceptible a diversos patógenos que pueden afectar su rendimiento. En esta presentación, exploraremos el papel de los hongos Trichoderma como agentes de control biológico, los principales patógenos que afectan al maíz, y las prácticas de cultivo del maíz."
+    "section": "",
+    "text": "El cultivo de maíz es una actividad agrícola fundamental en muchas regiones. Sin embargo, es susceptible a diversos patógenos que pueden afectar su rendimiento. En esta presentación, exploraremos el papel de los hongos Trichoderma como agentes de control biológico, los principales patógenos que afectan al maíz, y las prácticas de cultivo del maíz."
   },
   {
     "objectID": "posts/presentacion/estudio-tricho.html#trichoderma-spp.",
@@ -151,7 +151,7 @@
     "href": "posts/presentacion/estudio-tricho.html#patógenos-del-maíz",
     "title": "Estudio de Trichoderma",
     "section": "Patógenos del Maíz",
-    "text": "Patógenos del Maíz\nFusarium spp.\n\nEnfermedades: Pudrición de raíz, tallo y mazorca.\nImpacto: Provoca marchitez, decoloración, y formación de micotoxinas en los granos.\n\nRhizoctonia solani\n\nEnfermedades: Pudrición de raíz y tallo.\nImpacto: Afecta principalmente a las plántulas, causando debilidad y disminución en el rendimiento.\n\nOtros Patógenos\n\nPythium spp.: Pudrición de semillas y raíces, destructivo en condiciones de alta humedad.\nSclerotinia sclerotiorum: Pudrición blanca, debilitando la planta.\nExserohilum turcicum: Mancha foliar o tizón foliar, reduce la fotosíntesis."
+    "text": "Patógenos del Maíz\n\nFusarium spp.\n\nEnfermedades: Pudrición de raíz, tallo y mazorca.\nImpacto: Provoca marchitez, decoloración, y formación de micotoxinas en los granos.\n\n\n\nRhizoctonia solani\n\nEnfermedades: Pudrición de raíz y tallo.\nImpacto: Afecta principalmente a las plántulas, causando debilidad y disminución en el rendimiento.\n\n\n\nOtros Patógenos\n\nPythium spp.: Pudrición de semillas y raíces, destructivo en condiciones de alta humedad.\nSclerotinia sclerotiorum: Pudrición blanca, debilitando la planta.\nExserohilum turcicum: Mancha foliar o tizón foliar, reduce la fotosíntesis."
   },
   {
     "objectID": "posts/presentacion/estudio-tricho.html#cultivo-de-maíz",
@@ -173,5 +173,82 @@
     "title": "Estudio de Trichoderma",
     "section": "Referencias",
     "text": "Referencias\n\nWhite, D.G. (2006). Fusarium diseases of corn. Iowa State University.\nHarman, G.E. (2000). Trichoderma species—opportunistic, avirulent plant symbionts. Nature Reviews Microbiology.\nButler, D.M. et al. (2013). Rhizoctonia diseases in field crops. Plant Disease"
+  },
+  {
+    "objectID": "posts/Trichoderma/index.html",
+    "href": "posts/Trichoderma/index.html",
+    "title": "Trichoderma",
+    "section": "",
+    "text": "Trichoderma es un género de hongos saprófitos ampliamente reconocidos por su capacidad de actuar como agentes de control biológico. Estos hongos protegen los cultivos mediante:\n\nAntibiosis\nMicoparasitismo\nCompetencia por espacio y nutrientes\nInducción de resistencia sistémica (ISR)"
+  },
+  {
+    "objectID": "posts/Trichoderma/index.html#introducción-de-trichoderma",
+    "href": "posts/Trichoderma/index.html#introducción-de-trichoderma",
+    "title": "Trichoderma",
+    "section": "",
+    "text": "Trichoderma es un género de hongos saprófitos ampliamente reconocidos por su capacidad de actuar como agentes de control biológico. Estos hongos protegen los cultivos mediante:\n\nAntibiosis\nMicoparasitismo\nCompetencia por espacio y nutrientes\nInducción de resistencia sistémica (ISR)"
+  },
+  {
+    "objectID": "posts/Trichoderma/index.html#introducción-al-control-biológico-en-el-cultivo-de-maíz",
+    "href": "posts/Trichoderma/index.html#introducción-al-control-biológico-en-el-cultivo-de-maíz",
+    "title": "Trichoderma",
+    "section": "Introducción al Control Biológico en el Cultivo de Maíz",
+    "text": "Introducción al Control Biológico en el Cultivo de Maíz\nEl maíz es uno de los cultivos más importantes a nivel mundial, no solo por su uso alimentario directo, sino también como base para la producción de biocombustibles, piensos y productos industriales. Sin embargo, su cultivo enfrenta numerosos desafíos fitosanitarios, incluyendo la presencia de hongos patógenos como Fusarium spp., Rhizoctonia solani, Pythium spp., y Sclerotinia spp.\nEl control biológico, mediante el uso de hongos del género Trichoderma, se presenta como una alternativa sostenible para combatir estos patógenos y reducir la dependencia de agroquímicos."
+  },
+  {
+    "objectID": "posts/Trichoderma/index.html#especies-de-trichoderma-en-el-control-de-patógenos",
+    "href": "posts/Trichoderma/index.html#especies-de-trichoderma-en-el-control-de-patógenos",
+    "title": "Trichoderma",
+    "section": "Especies de Trichoderma en el Control de Patógenos",
+    "text": "Especies de Trichoderma en el Control de Patógenos\n\nTrichoderma atroviride\nTrichoderma atroviride es conocido por su producción de enzimas hidrolíticas que descomponen las paredes celulares de otros hongos patógenos. Su aplicación en maíz ha demostrado ser efectiva en el control de Fusarium y Pythium.\n\n\nTrichoderma viride\nTrichoderma viride es un micoparásito agresivo que ha sido utilizado con éxito en el manejo de Rhizoctonia solani en maíz.\n\n\nTrichoderma asperellum\nTrichoderma asperellum es eficaz contra patógenos como Pythium y Sclerotinia, induciendo además resistencia sistémica en las plantas."
+  },
+  {
+    "objectID": "posts/Trichoderma/index.html#beneficios-del-uso-de-trichoderma-en-maíz",
+    "href": "posts/Trichoderma/index.html#beneficios-del-uso-de-trichoderma-en-maíz",
+    "title": "Trichoderma",
+    "section": "Beneficios del Uso de Trichoderma en Maíz",
+    "text": "Beneficios del Uso de Trichoderma en Maíz\nEl uso de Trichoderma en maíz proporciona numerosos beneficios, como la reducción del uso de agroquímicos, la mejora de la producción y la calidad del grano, y un impacto ambiental positivo."
+  },
+  {
+    "objectID": "posts/Trichoderma/index.html#métodos-de-aplicación-de-trichoderma-en-el-cultivo-de-maíz",
+    "href": "posts/Trichoderma/index.html#métodos-de-aplicación-de-trichoderma-en-el-cultivo-de-maíz",
+    "title": "Trichoderma",
+    "section": "Métodos de Aplicación de Trichoderma en el Cultivo de Maíz",
+    "text": "Métodos de Aplicación de Trichoderma en el Cultivo de Maíz\nTrichoderma se aplica en maíz mediante formulaciones comerciales, como tratamientos de semillas o aplicaciones directas al suelo."
+  },
+  {
+    "objectID": "posts/Trichoderma/index.html#desafíos-y-consideraciones-en-el-uso-de-trichoderma",
+    "href": "posts/Trichoderma/index.html#desafíos-y-consideraciones-en-el-uso-de-trichoderma",
+    "title": "Trichoderma",
+    "section": "Desafíos y Consideraciones en el Uso de Trichoderma",
+    "text": "Desafíos y Consideraciones en el Uso de Trichoderma\nA pesar de sus beneficios, la efectividad de Trichoderma puede variar dependiendo de las condiciones ambientales. La investigación continua es clave para maximizar su potencial."
+  },
+  {
+    "objectID": "posts/Trichoderma/index.html#pruebas-de-antagonismo",
+    "href": "posts/Trichoderma/index.html#pruebas-de-antagonismo",
+    "title": "Trichoderma",
+    "section": "pruebas de antagonismo",
+    "text": "pruebas de antagonismo\nLas pruebas de antagonismo son un paso fundamental para evaluar la capacidad de un determinado microorganismo como agente de biocontrol. El porcentaje de inhibición del crecimiento radial (PICR) obtenido para cada cepa es un indicador directo de su potencial.\n\n\n\npruebas duales de antagonismo\n\n\n\nTrichoderma atrovirideTrichoderma asperellumTrichoderma viride\n\n\neste variedaded demostró un antagonismo significativo frente a diferentes patogenos\n\n\n\nprueba de antagonismo de atroviride\n\n\n\n\nesta variedad no tuvo un efecto antagonico significativo en las pruebas realizadas\n\n\n\nprueba de antagonismo de Trichoderma asperellum\n\n\n\n\nesta variedad tuvo diferencias ligeramente significativas\n\n\n\nprueba de antaginismo de viride\n\n\n\n\n\n\n\n\n\n\n\nWarning\n\n\n\nEl uso de esta investigación es propiedad privada de la universidad veracruzana"
+  },
+  {
+    "objectID": "posts/Trichoderma/index.html#diseño-experimental-estudio-de-bloques-al-azar",
+    "href": "posts/Trichoderma/index.html#diseño-experimental-estudio-de-bloques-al-azar",
+    "title": "Trichoderma",
+    "section": "Diseño Experimental: Estudio de Bloques al Azar",
+    "text": "Diseño Experimental: Estudio de Bloques al Azar\nPara estudiar la efectividad de las diferentes especies de Trichoderma en el control de patógenos en maíz, se propone un diseño experimental de bloques al azar. La siguiente tabla muestra la estructura del diseño:\n\nResultado:\nLa tabla generada contiene todas las combinaciones posibles de las especies de Trichoderma con las dosis especificadas, mostrando cómo se podrían aplicar diferentes cantidades de esporas en un experimento de control biológico en maíz.\n\n\n\nTrichoderma\nDosis\n\n\n\n\nT. atroviride\n10^6 esporas/mL\n\n\nT. atroviride\n10^7 esporas/mL\n\n\nT. atroviride\n10^8 esporas/mL\n\n\nT. viride\n10^6 esporas/mL\n\n\nT. viride\n10^7 esporas/mL\n\n\nT. viride\n10^8 esporas/mL\n\n\nT. asperellum\n10^6 esporas/mL\n\n\nT. asperellum\n10^7 esporas/mL\n\n\nT. asperellum\n10^8 esporas/mL"
+  },
+  {
+    "objectID": "posts/Trichoderma/index.html#conclusiones",
+    "href": "posts/Trichoderma/index.html#conclusiones",
+    "title": "Trichoderma",
+    "section": "Conclusiones",
+    "text": "Conclusiones\nEl uso de Trichoderma como agente de control biológico en el cultivo de maíz representa una herramienta valiosa para la agricultura sostenible y productiva."
+  },
+  {
+    "objectID": "posts/presentacion/estudio-tricho.html",
+    "href": "posts/presentacion/estudio-tricho.html",
+    "title": "Estudio de Trichoderma",
+    "section": "",
+    "text": "El cultivo de maíz es una actividad agrícola fundamental en muchas regiones. Sin embargo, es susceptible a diversos patógenos que pueden afectar su rendimiento. En esta presentación, exploraremos el papel de los hongos Trichoderma como agentes de control biológico, los principales patógenos que afectan al maíz, y las prácticas de cultivo del maíz."
   }
 ]

@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: profile.jpg
+image: yo.jfif 
 about:
   template: jolla
   links:
@@ -12,8 +12,7 @@ about:
       href: https://linkedin.com
     - icon: github
       text: Github
-      href: https://github.com
-
+      href: https://tricho-1.netlify.app/
 ---
 
-About this blog
+Soy Julio Aguilar estudiante de la maestría en ciencias agropecuarias de la universidad veracruzana, este proyecto forma parte de mi formación para seguir enriqueciendo mis habilidades y conocimientos en la investigación.
