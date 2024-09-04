@@ -4,6 +4,7 @@ author: "Julio Aguilar"
 date: "2024-07-07"
 categories: [Patogenos]
 image: patogenoportada.jpg
+bibliography: ../references.bib
 ---
 
 ------------------------------------------------------------------------
@@ -12,7 +13,7 @@ image: patogenoportada.jpg
 
 # Introducción
 
-El maíz es susceptible a una variedad de patógenos que pueden afectar su crecimiento y rendimiento [@Gonzalez2020]. A continuación se describen algunos de los patógenos más comunes y dañinos para este cultivo.
+El maíz es susceptible a una variedad de patógenos que pueden afectar su crecimiento y rendimiento [@Gonzalez2020], [@Spencer2019]. A continuación se describen algunos de los patógenos más comunes y dañinos para este cultivo.
 
 ## Fusarium spp.
 
@@ -20,11 +21,15 @@ El maíz es susceptible a una variedad de patógenos que pueden afectar su creci
 
 **Impacto**: Provoca la marchitez de las plantas, decoloración y formación de micotoxinas en los granos, afectando tanto la producción como la calidad del maíz [@Smith2019].
 
+![](f1.jpg){width="490"}
+
 ## Rhizoctonia solani
 
 **Enfermedades**: Pudrición de raíz y tallo.
 
 **Impacto**: Afecta principalmente las plántulas, causando un crecimiento desigual, debilidad en las plantas y una disminución en el rendimiento [@Lopez2018].
+
+![](e1.jfif){width="369"}
 
 ## Pythium spp.
 
@@ -71,3 +76,9 @@ El maíz es susceptible a una variedad de patógenos que pueden afectar su creci
 # Conclusión
 
 El manejo efectivo de estos patógenos es crucial para garantizar la productividad y la calidad del cultivo de maíz [@Hernandez2021]. La implementación de estrategias de control, como el uso de agentes biológicos como *Trichoderma*, es esencial para mitigar sus efectos negativos [@Vega2022].
+
+
+## Referencias
+
+::: {#refs}
+:::

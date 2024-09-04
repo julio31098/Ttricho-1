@@ -2,9 +2,10 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/welcome/index.html",
       "/posts/maiz/index.html",
-      "/posts/Patogenos/UntitledQMD.html"
+      "/posts/Patogenos/patogenos.html",
+      "/posts/presentacion/estudio-tricho.html",
+      "/posts/welcome/index.html"
     ]
   }
 ]
