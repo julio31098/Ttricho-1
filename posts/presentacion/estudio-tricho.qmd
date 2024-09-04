@@ -3,7 +3,6 @@ title: "Estudio de Trichoderma"
 author: "Julio Aguilar"
 date: "`r Sys.Date()`"
 format: revealjs
-
 ---
 
 ## Introducción
